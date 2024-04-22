@@ -1,5 +1,5 @@
 ## Active Admin V 3.2.0
-Hi, this is all about [Active Admin](https://github.com/excid3/noticed) , a The Administration Framework For Ruby On Rails approved by [Chris Oliver](https://github.com/excid3)!
+Hi, this is all about [Active Admin](https://activeadmin.info/documentation.html) , a The Administration Framework For Ruby On Rails approved by [Chris Oliver](https://github.com/excid3)!
 This is Working Code! :tada: :rocket:
 
 
