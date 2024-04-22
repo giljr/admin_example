@@ -13,7 +13,7 @@ Here, the emphasy lies on:
 ```
 Learning By Doing!
 ``` 
-### Project Inventory Leading Up to Version 8 :ant:
+### Project Inventory Leading Up to Version 3 :ant:
 
 01# **[Quick Start](https://medium.com/jungletronics/rails-active-admin-3-2-0-85d04f40e066)** — **Part I** — Get started with a very simple rails 7 frame;
 
