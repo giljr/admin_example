@@ -1,24 +1,49 @@
-# README
+## Active Admin V 3.2.0
+Hi, this is all about [Active Admin](https://github.com/excid3/noticed) , a The Administration Framework For Ruby On Rails approved by [Chris Oliver](https://github.com/excid3)!
+This is Working Code! :tada: :rocket:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+You're more then welcome to visit my Web Pages: 
 
-* Ruby version
+ [Jungletronics](https://medium.com/jungletronics) (Arduino, RPi, PIC, Eagle, Blender, Unity3D, Pixy, and more) 
+ [KidsTronics](https://medium.com/kidstronics) (MIT App Inventor, LEGO, Arduino For Kids, and more)
+ 
 
-* System dependencies
+Here, the emphasy lies on:
+```
+Learning By Doing!
+``` 
+### Project Inventory Leading Up to Version 8 :ant:
 
-* Configuration
+01# **[Quick Start](https://medium.com/jungletronics/rails-active-admin-3-2-0-85d04f40e066)** — **Part I** — Get started with a very simple rails 7 frame;
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Acknowledgements
 
-* Deployment instructions
+ - [Chris Oliver](https://github.com/excid3) Rails Luminary. Building GoRails.com, JumpstartRails.com, Hatchbox.io, and host of the Remote Ruby Podcast
 
-* ...
+
+## Authors
+
+[@giljr](https://www.linkedin.com/in/giljrx/)
+## Contributing
+
+[@jeovan.farias](https://www.linkedin.com/in/jeovan-f-6283b8145/)
+
+[@bruno.vichinheski](https://www.linkedin.com/in/brunovichinheski/)
+ 
+
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
