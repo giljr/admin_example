@@ -17,7 +17,7 @@ Learning By Doing!
 
 01# **[Quick Start](https://medium.com/jungletronics/rails-active-admin-3-2-0-85d04f40e066)** — **Part I** — Get started with a very simple rails 7 frame;
 
-02# **[Navbar Creation](https://medium.com/jungletronics/rails-active-admin-3-2-0-85d04f40e066)** — **Part II** — Create a Navbar & User Functionalities in Dropdown;
+02# **[Navbar Creation](https://medium.com/jungletronics/navbar-4-active-admin-3-2-0-d9a1d74cd1ab)** — **Part II** — Create a Navbar & User Functionalities in Dropdown;
 
 03# **[Features](https://medium.com/jungletronics/active-admin-3-2-0-cool-features-ca9042b896bb)** — **Part III** — Implements some Cool advanced features.
 
