@@ -27,5 +27,10 @@
 #       "yes": yup
 #       enabled: "ON"
 
+# en:
+#   hello: "Hello world"
 en:
-  hello: "Hello world"
+  active_admin:
+    dashboard: "Welcome to my Active Admin Tutorial !"
+    call_for_action: "Here you will learn how to use Active Admin version 3.2.0. Please visit the official documentation for more information: https://activeadmin.info/documentation.html"
+
